@@ -741,6 +741,7 @@ public class RJ extends javax.swing.JFrame {
        String totalresult3=Double.toString(totalprice2);
        st.setText(totalresult1);
        tprice.setText(totalresult3);
+        //trying
        
 
       
